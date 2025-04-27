@@ -1,0 +1,30 @@
+body {
+    background-color: #C4DFAA;
+  }
+  
+  #topdiv {
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  #textToType {
+    border: 2px solid #148892c0;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    font-size: 20px;
+    white-space: pre-wrap;
+  }
+  
+  .correct {
+    color: green;
+  }
+  .incorrect {
+    color: red;
+  }
+  
+  textarea {
+    border: 2px solid #28a745;
+    border-radius: 10px;
+  }
+  
